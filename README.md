@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ajay Devsen P S
 - 👀 I’m interested in coding and creating projects
 - 🌱 I’m currently learning python from Harvard cs50(youtube)
-- 📫 How to reach me ...
+- 📫 How to reach me : gmail - ajay2devsenps@gmail.com
 - 😄 Pronouns: He/Him
 
 <!---
